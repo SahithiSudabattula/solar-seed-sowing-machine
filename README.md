@@ -8,3 +8,6 @@ An Arduino-powered robot that automates seed sowing using Bluetooth control and 
 - Bluetooth Module (HC-05)
 - Motor Driver, Servo
 - Solar P
+
+## 👩‍💻 Author
+[Sahithi Sudabattula](https://www.linkedin.com/in/sahithisudabattula/)
